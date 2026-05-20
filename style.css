@@ -1,0 +1,28 @@
+. {
+    box-sizing: border-box;
+}
+
+a {
+    border: 2px;
+    border-color: red;
+    border-style: solid;
+    font-weight: bold;
+}
+
+h1 {
+    background-color: lightblue;
+    text-align: center;
+}
+
+h3 {
+    font-style: italic;
+    font-size: 40px;
+}
+
+ul li {
+    color: darkblue;
+}
+
+ol li {
+    color: darkturquoise;
+}
